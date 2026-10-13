@@ -328,7 +328,7 @@ Perimeter Zero produces an automated review of a **diagram**. Its findings are *
 Perimeter Zero is an independent project. It is not affiliated with, endorsed by, or sponsored by Amazon Web Services, CISA or NIST. AWS, Amazon Web Services and the names of AWS services are trademarks of Amazon.com, Inc. or its affiliates. Okta, Microsoft Entra, Microsoft Intune, CrowdStrike, Jamf, JumpCloud, Terraform and other names are trademarks of their respective owners.
 
 ## License
-All rights reserved. No license granted yet.
+Released under the [MIT License](LICENSE).
 
 ## Author
 **Arnar DeMarco** · Norselabs · [norselabs.net](https://norselabs.net)
