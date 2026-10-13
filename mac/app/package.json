@@ -1,0 +1,9 @@
+{
+  "name": "perimeter-zero",
+  "productName": "Perimeter Zero",
+  "version": "1.0.0",
+  "description": "Design Zero Trust AWS architectures scored on CISA ZTMM pillars and NIST SP 800-207 tenets, with regional costs incl. GovCloud. Offline desktop edition of norselabs.net/zerotrust.",
+  "main": "main.js",
+  "author": "Norselabs",
+  "license": "UNLICENSED"
+}
